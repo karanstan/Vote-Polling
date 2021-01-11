@@ -1,0 +1,12 @@
+	NAME           EMAIL 	 PASSWORD    	VOTE
+0   	yyyy  	yyyy@gmail.com    yy123    	Ford
+1  	zzzz    zzzz@gmail.com    zz123    	Ford
+2   	aaaa  	aaaa@gmail.com    aa123     	BMW
+3   	bbbb  	bbbb@gmail.com    bb123   	Ford
+4   	cccc  	cccc@gmail.com    cc123    	Ford
+5   	dddd  	dddd@gmail.com    dd123   	BMW
+6   	eeee  	eeee@gmail.com    ee123    	Ford
+7   	rrrr  	rrrr@gmail.com    rr123     	BMW
+8   	ffff  	ffff@gmail.com    ff123  	Toyoto
+9   	gggg  	gggg@gmail.com    gg123    	Ford
+10  	jjjj    jj@gmail.com      jj123  	Toyoto
